@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(232, 138, 255);
+  }
+  h1 {
+    color: rgb(0, 0, 0); border: 2px solid powderblue;
+    margin: 50px;
+  }
+  h2 {
+    color: rgb(0, 0, 0); border: 2px solid powderblue;
+    margin: 50px;
+  }
+  h3 {
+    color: rgb(0, 0, 0); border: 2px solid powderblue;
+    margin: 50px;
+  }
+  h4 {
+    color: rgb(0, 0, 0); border: 2px solid powderblue;
+    margin: 50px;
+  }
+  h5 {
+    color: rgb(0, 0, 0); border: 2px solid powderblue;
+    margin: 50px;
+  }
+  p {
+    color: rgb(24, 12, 78);
+  }
+title {
+    color: rgb(41, 0, 51);font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; font-size: 22px; letter-spacing: 2px; word-spacing: 2px; font-weight: 700; text-decoration: underline solid rgb(68, 68, 68)
+  }
